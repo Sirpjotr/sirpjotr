@@ -160,3 +160,21 @@ a {
     font-weight: 900;
     font-size: 30px;
   }
+
+  .team-photo {
+    width: 100%;
+    margin: 0;
+    margin-bottom: 20px;
+    border-radius: 10px;
+  }
+
+  .team-link {
+    display: block;
+    margin-bottom: 20px;
+    font-weight: 800;
+  }
+
+  .team-link:hover{
+    color: #734f89;
+    transition: 0.3s;
+  }
